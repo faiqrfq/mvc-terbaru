@@ -281,8 +281,8 @@
                             <img src="http://localhost/ourtaskmvc/public/image/Profil.png" alt="" class="left-content">
                         </a>
                         <div style="font: 400 13px Arial; display: flex; gap: 2px; flex-direction: column;">
-                            <div >Akhtar</div>
-                            <div >iniemail@pplg.id</div>
+                            <div >Faiq Rafiq</div>
+                            <div >dsages @pplg.id</div>
                         </div>
                     </div>
                 </div>

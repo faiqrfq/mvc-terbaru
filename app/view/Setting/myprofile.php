@@ -42,15 +42,15 @@
             </div>
             <div class="mt-4">
                 <label class="pt-10 text-[#006EE9] font-medium " for="">Profession</label>
-                <input type="text" class="mt-1 flex border-2 border-[#bdd3ec] rounded-lg w-[100%] px-4 py-3 text-sm " value="UI UX Designer">
+                <input type="text" class="mt-1 flex border-2 border-[#bdd3ec] rounded-lg w-[100%] px-4 py-3 text-sm " value="Frontend Dev">
             </div>
             <div class="mt-4">
                 <label class="mt-4 text-[#006EE9] font-medium " for="">Date of Birth</label>
-                <input type="date" class="mt-1 flex border-2 border-[#bdd3ec] rounded-lg w-[100%] px-4 py-3 text-sm " value="2007-01-12">
+                <input type="date" class="mt-1 flex border-2 border-[#bdd3ec] rounded-lg w-[100%] px-4 py-3 text-sm " value="2007-09-04">
             </div>
             <div class="mt-4">
                 <label class="pt-10 text-[#006EE9] font-medium " for="">Email</label>
-                <input type="email" class="mt-1 flex border-2 border-[#bdd3ec] rounded-lg w-[100%] px-4 py-3 text-sm " value="iniemail@pplg.id">
+                <input type="email" class="mt-1 flex border-2 border-[#bdd3ec] rounded-lg w-[100%] px-4 py-3 text-sm " value="dages@pplg.id">
             </div>
             <button class="bg-[#006EE9] w-[100%] rounded-lg mt-6 h-[40px] text-white">save</button>
 

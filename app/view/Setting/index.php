@@ -23,7 +23,6 @@
         <div class=" text-white font-bold " style="width: 100%; text-align: center;">Settings</div>
     </div>
 
-
     <div class="bg-white w-[100%] h-full mt-14 pt-10 rounded-t-3xl">
 
 

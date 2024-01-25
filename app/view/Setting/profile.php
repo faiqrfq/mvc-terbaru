@@ -45,15 +45,15 @@
     <div class="bg-white w-[100%]  mt-14 pt-14 text-center" style="height: calc(100vh - 120px)">
 
         <div class="bg-white shadow-lg rounded-lg px-5 mx-5 h-[130px]">
-            <div class="mt-5 text-lg font-bold text-[#006EE9]">Muhammad Faqih</div>
-            <div class="mt-3 font-medium">UI UX Designer</div>
+            <div class="mt-5 text-lg font-bold text-[#006EE9]">Faiq Rafiq</div>
+            <div class="mt-3 font-medium">Frontend Dev</div>
             <div class="grid grid-cols-3 place-items-center mt-5">
                 <div class="flex ml-2 items-center">
                     <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#006EE9">
                         <path d="M0 0h24v24H0z" fill="none" />
                         <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z" />
                     </svg>
-                    <div class="text-sm ">Bogor, Indonesia</div>
+                    <div class="text-sm ">Wangon, Indonesia</div>
                 </div>
                 <div class="h-[30px] w-[2px] rounded-xl bg-[#658dd7]"></div>
                 <div class="flex ml-2 items-center">

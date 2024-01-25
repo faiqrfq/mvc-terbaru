@@ -21,8 +21,7 @@
                     <button class="nav-button" id="nav-button" onclick="overlayOpen()">
                         <div class="line"></div>
                         <div class="line"></div>
-                        <div class="line"></div>
-                        
+                        <div class="line"></div>    
                     </button>
                     <div class="right-content">
                         <a href="http://localhost/ourtaskmvc/public/home/notification" class="notification">
@@ -420,8 +419,8 @@
                             <img src="http://localhost/ourtaskmvc/public/image/Profil.png" alt="" class="left-content">
                         </a>
                         <div style="font: 400 13px Arial; display: flex; gap: 2px; flex-direction: column;">
-                            <div >Akhtar</div>
-                            <div >iniemail@pplg.id</div>
+                            <div >Faiq Rafiq</div>
+                            <div >dages@pplg.id</div>
                         </div>
                     </div>
                 </div>
